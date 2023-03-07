@@ -24,7 +24,7 @@ const json = {
     fName: 'Tobi',
     lName: 'Konrad',
     phone: '1234',
-    email: 'testtesstetestetestestes'
+    email: 'test.konrad@hallogroup.de'
 };
 
 app.get('/', function (req, res) {
